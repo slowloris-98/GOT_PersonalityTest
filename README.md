@@ -1,4 +1,4 @@
-# GOT_PersonalityTest
+# GOT Personality Test
 Personality test to find out which Game of Thrones character matches with your personality the most with the help of machine learning.
 
 Steps:

@@ -10,4 +10,4 @@ Steps:
 
 Notes:
 1. Figure out where to host
-2. Should be flexible enough to work with series/tv show character corpus (Eg: Friends, Naruto, CEO's)
+2. Should be flexible enough to work with any series/tv show character corpus (Eg: Friends, Naruto, CEO's)
